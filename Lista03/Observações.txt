@@ -1,0 +1,15 @@
+Para que os códigos rodem sem problemas 
+deve-se abrir o CMD e instalar o a biblioteca matplotlib
+
+Para isso se usa o comando :
+
+    pip install matplotlib
+
+Depois disso basta rodar o código pelo VsCode
+No Colab Nao funciona animação.
+
+
+Infelizmente nao consegui gravar a tela do pc para mostra 
+as saidas dos Exercicios 04 e 05. No entando , ao rodar o programa funciona normal
+
+
